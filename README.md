@@ -7,7 +7,7 @@ AI Code Review Tool is a full-stack, AI-powered web application designed to elev
 
 ## 🌟 Why This Tool?
 
-💡 **Instant Feedback** – Drop your code and receive real-time AI-powered suggestions.  
+💡 **Instant Feedback** – Drop your code and receive real-time AI-powered suggestions. 
 🔍 **Bug Detection** – Identify subtle issues and inefficiencies in your code.  
 📦 **Cross-Language Support** – Works with multiple programming languages.  
 ⚡ **Simple, Elegant UI** – Clean design, smooth experience.  
