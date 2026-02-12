@@ -2,7 +2,6 @@
 
 AI Code Review Tool is a full-stack, AI-powered web application designed to elevate your coding experience. Paste your code and get instant insights — uncover hidden bugs, optimize logic, and receive intelligent suggestions to enhance performance, readability, and maintainability in real-time.
 
-
 ---
 
 ## 🌟 Why This Tool?
